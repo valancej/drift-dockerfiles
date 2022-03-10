@@ -1,1 +1,1 @@
-FROM python:latest
+FROM python:3.11-rc-alpine3.14
