@@ -21,14 +21,14 @@ This repository contains Dockerfiles for each of the drift test cases we expect 
 
 **Testing**
 
-For each of the above, the following steps can be performed to prepare the images for the environment.
-
 **Anchore Prep**
 
 1. Create a new policy bundle for drift testing
 2. Create a three policy rules which use the `tag_drift` gate and each different trigger (e.g. packages added, packages removed, packages modified).
 3. Activate this policy bundle
 4. This will evaluate each of the three cases when performing the drift comparison. 
+
+For each of the above OS and language packages, the following steps can be performed to prepare the images for the environment.
 
 **Image Prep**
 
