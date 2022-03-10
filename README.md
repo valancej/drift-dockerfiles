@@ -1,6 +1,6 @@
-# Drift Dockerfiles
+# Test Dockerfiles
 
-This repository contains Dockerfiles for each of the drift test cases we expect to confirm.
+This repository contains Dockerfiles for each of the test cases we expect to confirm.
 
 **OS Packages**
 
