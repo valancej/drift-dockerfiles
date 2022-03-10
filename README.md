@@ -8,7 +8,6 @@ This repository contains Dockerfiles for each of the test cases we expect to con
 - Debian
 - RHEL (UBI)
 - Ubuntu
-- Unknown
 
 **Language Packages**
 
